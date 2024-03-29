@@ -1,0 +1,143 @@
+
+table{
+    width: 100%;
+    height: 950px;
+    background-image: url(imagens/fundo\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#roxo{
+    background-color: indigo;
+}
+body{
+    margin: 0;
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto Mono", monospace;
+}
+td { width: 25%;}
+.center{
+    text-align: center;
+}
+.rosa {
+    background-color: rgba(251, 69, 199, 1);
+}
+.verde {
+    background-color: #89f668;
+    
+}
+.texto{
+    font-size: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    margin-top: 10px;
+}
+.titulo{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+.titulo2{
+    font-weight: bold;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 19px;
+}
+.legenda{
+    color: indigo;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+}
+
+.coluna { column-count: 3;
+text-align: center;
+padding: 30px;}
+.transparente {
+    background-color: transparent;
+}
+.titulo3 {
+    color: rgb(137, 246, 104);
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.titulo4 {
+    color: rgb(137, 246, 104);
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: left;
+}
+.legenda2{
+    color: rgb(137, 246, 104);
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+}
+.fundo{
+    background-color: #5b1078;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-wrap: wrap;
+    justify-content: center;
+    text-align: left;
+
+}
+.indigo{
+    background-color: indigo;
+}
+.button{
+    color: white;
+    background-color: rgba(138,77,157,1);
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Raleway, sans-serif;
+    border-width: 0px;
+    font-size: 20px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.btn{
+    column-count: 1;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+.politicadepriv {
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Raleway, sans-serif;
+    font-size: 13px;
+}
+.resto{
+    column-count: 3;
+    text-align: center;
+}
+.colegio{
+    font-weight: bold;
+    font-family:  Raleway, sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+.endereco{
+    font-family: Raleway, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    margin-right: 80px;
+}
+.imagem{
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.imagem2{
+    padding-left: 10px;
+    padding-top: 10px;
+}
